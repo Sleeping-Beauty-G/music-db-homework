@@ -28,7 +28,8 @@
 
 ## 🖼 Визуальная схема
 Файл схемы:  
-📎 <img width="821" height="302" alt="Схема для музыкального сайта drawio (1)" src="https://github.com/user-attachments/assets/42d6a0f5-5dc2-436c-be2d-8cf2c660a590" />
+📎 <img width="821" height="302" alt="Схема для музыкального сайта drawio (1)" src="https://github.com/user-attachments/assets/f80c17b9-6af3-466b-ad60-f316efbdede6" />
+
 
 
 
